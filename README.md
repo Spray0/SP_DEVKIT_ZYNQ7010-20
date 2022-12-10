@@ -14,7 +14,10 @@
 
 > 绿色阻焊，6层嘉立创免费工艺，JLC06161H-3313
 
-#### 🐢测试用底板工程文件：*ZYNQ7000_MINIMB_blink.zip*
+#### 🐜测试用底板工程文件A：*ZYNQ7000_MINIMB_LE_blink.zip*
+>待上传
+
+#### 🐢测试用底板工程文件B：*ZYNQ7000_MINIMB_blink.zip*
 * 此底板工程不推荐使用，功能有限，作者点灯验证使用🐸
 * 1x PS-GbE
 * 1X 2bit boot mode switch
