@@ -14,8 +14,17 @@
 
 > 绿色阻焊，6层嘉立创免费工艺，JLC06161H-3313
 
-#### 🐵测试用底板工程文件A：*ZYNQ7000_MINIMB_LE_blink.zip*
-> 🐌待上传
+#### 🐵测试用底板工程文件A：*ZYNQ7000_MINIMB_A_blink.zip*
+* 此底板工程不推荐使用，功能有限，作者点灯验证使用🐸
+* 1x PS-GbE
+* 1X 2bit boot mode switch
+* 1x Reset button
+* 1x PS-UART2USB
+* 1x ZYNQ JTAG connector
+* 1x USB
+* 1x HDMI-A
+* 1x 40p 扩展差分IO连接器
+<img src=".\image\zynq_minimb_a.JPG" height = "350" alt="brd" />
 
 #### 🐢测试用底板工程文件B：*ZYNQ7000_MINIMB_blink.zip*
 * 此底板工程不推荐使用，功能有限，作者点灯验证使用🐸
@@ -24,7 +33,7 @@
 * 1x Reset button
 * 1x PS-UART2USB
 * 1x ZYNQ JTAG connector
-<img src=".\image\zynq_minimb.JPG" height = "400" alt="brd" />
+<img src=".\image\zynq_minimb.JPG" height = "280" alt="brd" />
 
 > 绿色阻焊，2层嘉立创免费工艺
 
