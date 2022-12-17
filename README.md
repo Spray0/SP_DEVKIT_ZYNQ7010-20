@@ -26,6 +26,8 @@
 * 1x 40p 扩展差分IO连接器
 <img src=".\image\zynq_minimb_a.JPG" height = "350" alt="brd" />
 
+> 绿色阻焊，4层嘉立创免费工艺
+
 #### 🐢测试用底板工程文件B：[*ZYNQ7000_MINIMB_blink.zip*](https://github.com/Spray0/SP_DEVKIT_ZYNQ7010-20/blob/main/ZYNQ7000_MINIMB_blink.zip)
 * 此底板工程不推荐使用，功能有限，作者点灯验证使用🐸
 * 1x PS-GbE
