@@ -9,12 +9,12 @@
 * SP_DEVKIT_ZYNQ7010-20 开源交流 🐧企鹅群：**623393880**
 
 ## 📁文件说明
-#### ⭐核心板工程文件：*ZYNQ7000_10_20_core_v1.0_20221204_LE.zip*
+#### ⭐核心板工程文件：[*ZYNQ7000_10_20_core_v1.0_20221204_LE.zip*](https://github.com/Spray0/SP_DEVKIT_ZYNQ7010-20/blob/main/ZYNQ7000_10_20_core_v1.0_20221204_LE.zip)
 <img src=".\image\zynq_01.JPG" height = "300" alt="brd1" />  <img src=".\image\zynq_02.JPG" height = "300" alt="brd2" />
 
 > 绿色阻焊，6层嘉立创免费工艺，JLC06161H-3313
 
-#### 🐵测试用底板工程文件A：*ZYNQ7000_MINIMB_A_blink.zip*
+#### 🐵测试用底板工程文件A：[*ZYNQ7000_MINIMB_A_blink.zip*](https://github.com/Spray0/SP_DEVKIT_ZYNQ7010-20/blob/main/ZYNQ7000_MINIMB_A_blink.zip)
 * 此底板工程不推荐使用，功能有限，作者点灯验证使用🐸
 * 1x PS-GbE
 * 1X 2bit boot mode switch
@@ -26,7 +26,7 @@
 * 1x 40p 扩展差分IO连接器
 <img src=".\image\zynq_minimb_a.JPG" height = "350" alt="brd" />
 
-#### 🐢测试用底板工程文件B：*ZYNQ7000_MINIMB_blink.zip*
+#### 🐢测试用底板工程文件B：[*ZYNQ7000_MINIMB_blink.zip*](https://github.com/Spray0/SP_DEVKIT_ZYNQ7010-20/blob/main/ZYNQ7000_MINIMB_blink.zip)
 * 此底板工程不推荐使用，功能有限，作者点灯验证使用🐸
 * 1x PS-GbE
 * 1X 2bit boot mode switch
