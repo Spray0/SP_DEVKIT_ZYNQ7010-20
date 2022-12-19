@@ -39,5 +39,7 @@
 
 > 绿色阻焊，2层嘉立创免费工艺
 
-#### 🐟测试用软件：*ZYNQ_7010_demo.zip*
-> 🐌待上传
+#### 🐟测试用软件 📁[software](https://github.com/Spray0/SP_DEVKIT_ZYNQ7010-20/tree/main/software)
+- 🆚Vivado&sdk(2018.3) zynq_blink工程：[zynq_blink.zip](https://github.com/Spray0/SP_DEVKIT_ZYNQ7010-20/blob/main/software/zynq_blink.zip)
+- 🐧PetaLinux 固件（SD启动）：[petalinux_image_sd](https://github.com/Spray0/SP_DEVKIT_ZYNQ7010-20/tree/main/software/petalinux_image_sd)
+> 登录用户：root 密码: passwd
